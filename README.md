@@ -1,9 +1,8 @@
 <br />
 <p align="center">
-  <h1 align="center"><a href="https://yuhaoliu7456.github.io/Diff-Plugin/" target="_blank"> Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy</a></h1>
+  <h1 align="center"><a href="https://shapeformotion.github.io/" target="_blank"> Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy</a></h1>
   <p align="center">
-    <!-- CVPR, 2024     -->
-    <a href='https://arxiv.org/abs/2403.00644' target="_blank">
+    <a href='https://arxiv.org/abs/2506.22432' target="_blank">
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a> &nbsp;&nbsp;&nbsp;
     <a href='' target="_blank">
