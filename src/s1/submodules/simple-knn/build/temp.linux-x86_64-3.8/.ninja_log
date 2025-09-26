@@ -1,0 +1,4 @@
+# ninja log v5
+47	147725	1724431035000000000	/mnt/petrelfs/liuyuhao/Code/DG-Mesh/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-3.8/simple_knn.o	a65af9469e571c81
+20	325390	1724431213000000000	/mnt/petrelfs/liuyuhao/Code/DG-Mesh/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-3.8/ext.o	8c7af9e4298938de
+76	542698	1724431430000000000	/mnt/petrelfs/liuyuhao/Code/DG-Mesh/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-3.8/spatial.o	ab5ec947ee60607f

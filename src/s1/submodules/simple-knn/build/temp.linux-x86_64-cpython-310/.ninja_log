@@ -1,0 +1,10 @@
+# ninja log v5
+0	6207	1717457070053699243	/mnt/samsung990/CVPR2024/code/DMesh/codebases/gaussian_splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	a31cffd3e39f9fad
+0	9808	1717457073653844127	/mnt/samsung990/CVPR2024/code/DMesh/codebases/gaussian_splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	32e81391409e91b4
+1	31374	1717457095210711776	/mnt/samsung990/CVPR2024/code/DMesh/codebases/gaussian_splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	6e7f0e66757ba589
+14	16393	1724485675000000000	/mnt/petrelfs/liuyuhao/Code/DG-Mesh/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	dae727c3c9f4ca7b
+11	21564	1724485680000000000	/mnt/petrelfs/liuyuhao/Code/DG-Mesh/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	879fffd01ad7b794
+18	58977	1724485717000000000	/mnt/petrelfs/liuyuhao/Code/DG-Mesh/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	bd009fb7fa10d4c4
+18	15285	1729075176000000000	/mnt/petrelfs/liuyuhao/Code/ReTest/DGRetest/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	19aab3cdd6c4d587
+14	20982	1729075181000000000	/mnt/petrelfs/liuyuhao/Code/ReTest/DGRetest/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	e2a03c36e99e1265
+21	52805	1729075213000000000	/mnt/petrelfs/liuyuhao/Code/ReTest/DGRetest/dgmesh/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	29300cdbe4cad25e

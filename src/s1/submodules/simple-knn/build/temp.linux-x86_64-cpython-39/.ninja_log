@@ -1,0 +1,4 @@
+# ninja log v5
+198	20627	1752512352183685087	/apdcephfs/private_yuhaliu/Code/Shpe-for-Motion/src/s1/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	4087db3b6c7a152
+199	24199	1752512355757105325	/apdcephfs/private_yuhaliu/Code/Shpe-for-Motion/src/s1/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	b24088648083b5f3
+200	52062	1752512383544773816	/apdcephfs/private_yuhaliu/Code/Shpe-for-Motion/src/s1/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	9686e17075fbc17f
