@@ -5,7 +5,7 @@
 Authors: [Yuhao LIU](https://yuhaoliu7456.github.io/)<sup>1</sup>, [Tengfei Wang](https://tengfei-wang.github.io/)<sup>2</sup>, [Fang Liu](https://fawnliu.github.io/)<sup>1</sup>, [Zhenwei Wang](https://zhenwwang.github.io/)<sup>1</sup>, [Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/)<sup>1</sup>  
 Affiliations: <sup>1</sup>City University of Hong Kong, <sup>2</sup>Tencent Hunyuan  
 
-## [Project Page](https://shapeformotion.github.io/) | [Paper](https://arxiv.org/abs/2506.22432)
+
 
 <p align="center">
   <img src="./imgs/teaser.jpg" alt="Shape-for-Motion Teaser"  style="width:80%">
